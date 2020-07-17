@@ -9,4 +9,13 @@
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend a lot of time watching TV and News.
 
-<img src="https://github-readme-stats.vercel.app/api?username=arrushc&&show_icons=true&hide_border=true&title_color=ffffff&icon_color=4C71F2&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=ArrushC&&show_icons=true&hide_border=true&title_color=ffffff&icon_color=4C71F2&text_color=daf7dc&bg_color=151515">
+
+### My Pinned Repositories
+
+<a href="https://github.com/ArrushC/Server-side-Learning-In-Python">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ArrushC&repo=Server-side-Learning-In-Python" />
+</a>
+<a href="https://github.com/ArrushC/PiGuide">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=ArrushC&repo=PiGuide" />
+</a>
