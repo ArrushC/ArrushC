@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on: Building projects and programs that might actually help me in later life, and learning machine learning and low-level languages.
 - 🌱 I’m currently learning A-Level OCR Computer Science, A-Level Edexcel Mathematics and A-Level AQA Physics
 - 💬 Ask me about computer science or tech related stuff.
-- 📫 How to reach me: Discord (Arrush#00211)
+- 📫 How to reach me: Discord (Arrush#0021)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I spend a lot of time watching TV and News.
 
