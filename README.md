@@ -2,7 +2,6 @@
 
 <!-- **ArrushC/ArrushC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-- 
 - 🔭 I’m currently working on: Building projects and programs that might actually help me in later life, and learning machine learning and low-level languages.
 - 🌱 I’m currently learning A-Level OCR Computer Science, A-Level Edexcel Mathematics and A-Level AQA Physics
 - 💬 Ask me about computer science or tech related stuff.
