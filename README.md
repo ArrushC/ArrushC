@@ -13,5 +13,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ArrushC&&show_icons=true&hide_border=true&theme=dark">
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=ArrushC">
+</a>
+<br>
+<a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArrushC&theme=dark" /> <!--&layout=compact -->
 </a>
