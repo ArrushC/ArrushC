@@ -1,6 +1,7 @@
-### 👋 Hey there I'm Arrush 👋
-
 <!-- **ArrushC/ArrushC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
+# Hi there! I'm Arrush 👨‍💻
 
 - 🔭 I’m currently working on trying to get a job.
 - 🌱 I’m currently learning A-Level subjects: Computer Science [OCR], Mathematics [Edexcel] and Physics [AQA]
