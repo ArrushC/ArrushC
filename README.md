@@ -15,7 +15,7 @@ I am a male human being (He/Him) and I can enjoy conversations about STEM, food 
 
 #### Hobbies
 I have some hobbies too!
-- Chess (Rated 1450-1550)
+- Chess (Rated 1400-1550)
 - Swimming
 
 #### Programming Languages
