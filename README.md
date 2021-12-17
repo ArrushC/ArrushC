@@ -21,14 +21,18 @@ I have some hobbies too!
 #### Programming Languages
 As I have started programming since December 2015 I have learnt several languages. Here are some of the ones I know:
 - Python
+  - NumPy
+  - Itertools
 - Java
 - Kotlin
+  - Tornadofx
 - Scala
 - C
 - Golang
 - Web development
   - HTML, CSS
-  - JavaScript, AJAX
+  - JavaScript - AJAX, AlpineJS
+  - PHP - Twig, Behat, Symfony,
 
 ## How to contact me
 Besides Github, there are other places where you can contact me. I am usually active on Discord (username: Arrush#0021) and Slack.
