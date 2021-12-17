@@ -11,7 +11,7 @@ I'm a Computer Science student that has endless passion and enthusiasm ever sinc
 
 ## Things about me
 
-I am a male human being (He/Him) and I can enjoy conversations about STEM, food (including vegeterianism), gaming, sport, debateful and serious topics. In my spare time, I learn and study unfamiliar topics usually within the scope of either Physics, Mathematics, Computer Science and Engineering. A surprising fact that you might have not known about me is that I like to watch TV's a lot.
+I am a male human being (He/Him) and I can enjoy conversations about STEM, food (including vegeterianism), gaming, sport, debateful and serious topics. In my spare time, I learn and study unfamiliar topics usually within the scope of either Physics, Mathematics or Computer Science and Engineering. A surprising fact that you might have not known about me is that I like to watch TV's a lot.
 
 #### Hobbies
 I have some hobbies too!
