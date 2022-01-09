@@ -31,8 +31,8 @@ As I have started programming since December 2015 I have learnt several language
 - Golang
 - Web development
   - HTML, CSS
-  - JavaScript - AJAX, AlpineJS
-  - PHP - Twig, Behat, Symfony,
+  - JavaScript
+  - PHP
 
 ## How to contact me
 Besides Github, there are other places where you can contact me. I am usually active on Discord (username: Arrush#0021) and Slack.
