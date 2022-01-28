@@ -20,18 +20,16 @@ I have some hobbies too!
 
 #### Programming Languages
 As I have started programming since December 2015 I have learnt several languages. Here are some of the ones I know:
-- Python
-  - NumPy
-  - Itertools
+- Python -- NumPy, Itertools, Flask
 - Java
-- Kotlin
-  - Tornadofx
+- Kotlin -- Tornadofx
 - Scala
 - C
+- C++
 - Golang
 - Web development
   - HTML, CSS
-  - JavaScript
+  - JavaScript - Node.js
   - PHP
 
 ## How to contact me
