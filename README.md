@@ -13,7 +13,7 @@ I learn and study unfamiliar topics usually within the scope of either Physics, 
 
 ## Things about me
 
-I am a human being and I can enjoy conversations about STEM, food (including vegeterianism), gaming, sport, debateful and serious topics. A surprising fact that you might have not known about me is that I like to watch TV's a lot.
+I am a human being and I can enjoy conversations about STEM, food (including vegeterianism), gaming, sport, debateful and serious topics. A surprising fact that you might have not known about me is that I like to watch TV series a lot.
 
 #### Hobbies
 I have some hobbies too!
@@ -23,11 +23,8 @@ I have some hobbies too!
 #### Programming Languages
 As I have started programming since December 2015 I have learnt several languages. Here are some of the ones I know:
 - Python -- NumPy, Itertools, Flask
-- Java
-- Kotlin -- Tornadofx
-- Scala
-- C
-- C++
+- Java / Kotlin / Scala
+- C / C++
 - Golang
 - Web development
   - HTML, CSS
