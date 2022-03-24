@@ -1,5 +1,5 @@
 <!-- **ArrushC/ArrushC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+<p align="middle"> <img src="https://komarev.com/ghpvc/?username=ArrushC&label=Views&color=blue&style=plastic" alt="ViewCounter" /> </p>
 
 # Hi there! I'm Arrush (He/Him) 👨‍💻
 
