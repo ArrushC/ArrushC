@@ -13,11 +13,11 @@ I learn and study unfamiliar topics usually within the scope of either Physics, 
 
 ## Things about me
 
-I am a human being and I can enjoy conversations about STEM, food (including vegeterianism), gaming, sport, debateful and serious topics. A surprising fact that you might have not known about me is that I like to watch TV series a lot.
+I am a computer science enthusiast and I enjoy conversations about STEM, food (including vegeterianism), gaming, sport, debateful and serious topics. A surprising fact that you might have not known about me is that I like to watch TV series a lot.
 
 #### Hobbies
 I have some hobbies too!
-- Chess (Rated 1400-1550)
+- Chess (Rated 1400-1500)
 - Swimming
 
 #### Programming Languages
@@ -28,7 +28,7 @@ As I have started programming since December 2015 I have learnt several language
 - Golang
 - Web development
   - HTML, CSS
-  - JavaScript - Node.js
+  - Typescript / JavaScript - Node.js
   - PHP
 
 ## How to contact me
