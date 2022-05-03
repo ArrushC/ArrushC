@@ -1,6 +1,4 @@
 <!-- **ArrushC/ArrushC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-<p align="middle"> <img src="https://komarev.com/ghpvc/?username=ArrushC&label=Views&color=blue&style=plastic" alt="ViewCounter" /> </p>
-
 # Hi there! I'm Arrush 👨‍💻
 Welcome to my profile where you will find information about me (a lot of repositories are private but will make them public soon). I'm a current student at the University of Bath studying MComp (Hons.) Computer Science.
 
