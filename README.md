@@ -5,7 +5,7 @@ Welcome to my profile where you will find information about me (a lot of reposit
 **Open to Internships and Jobs**
 
 ## Things about me
-I am a computer science enthusiast and I enjoy conversations about STEM, gaming, sport, debateful and serious topics. A surprising fact that you might have not known about me is that I like to watch TV series a lot.
+I am a computer science enthusiast and I enjoy conversations about STEM, gaming, sport, debateful and serious topics. A surprising fact that you might have not known about me is that I like to watch TV a lot.
 
 My pronouns are He/Him.
 
