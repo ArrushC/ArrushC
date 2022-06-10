@@ -13,6 +13,7 @@ My pronouns are He/Him.
 I have some hobbies too!
 - Chess (Rated 1400-1500)
 - Swimming
+- Programming
 
 #### Technologies
 As I have started programming since December 2015, and have developed experience in a variety of technologies and implemented this in numerous projects. For more information about these technologies, please contact me! 
