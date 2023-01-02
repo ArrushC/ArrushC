@@ -12,5 +12,5 @@ I have some hobbies too!
 
 ## How to contact me
 - Github -- *You are here*
-- Discord -- ArrushC#0021
-- Email -- contact@arrushc.com
+- Discord -- `ArrushC#0021`
+- Email -- `contact@arrushc.com`
