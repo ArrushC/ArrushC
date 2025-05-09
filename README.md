@@ -19,6 +19,5 @@
 ---
 
 ### Contact Me
-- **GitHub:** [ArrushC](https://github.com/ArrushC)  
-- **Discord:** arrushc  
+- **GitHub:** [ArrushC](https://github.com/ArrushC)
 - **Email:** contact@arrushc.com
