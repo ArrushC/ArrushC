@@ -1,4 +1,4 @@
-# Hi, I’m Arrush 👋
+<h3>Hi, I’m Arrush 👋</h3>
 
 I’m a software engineer who likes making systems *fast*, *reliable*, and *pleasant to work with*.  
 Based in the UK (Reading/London). *Actively interviewing* while employed.
@@ -18,9 +18,6 @@ Mostly practical stuff: small utilities, experiments, and notes from trying to m
 ### Now
 Working on low latency services, better release tooling, and a few agentic AI experiments.
 
-### Say hello
-📫 [contact@arrushc.com](mailto:contact@arrushc.com)  
-🔗 LinkedIn: https://www.linkedin.com/in/arrush-chaturvedi  
-🐙 GitHub: https://github.com/ArrushC
+---
 
 Hiring or collaborating? I’m open to interesting problems.
