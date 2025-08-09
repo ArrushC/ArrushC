@@ -1,23 +1,26 @@
-<h3 align="center">Hello, I'm Arrush 👋</h3>
+# Hi, I’m Arrush 👋
 
----
+I’m a software engineer who likes making systems *fast*, *reliable*, and *pleasant to work with*.  
+Based in the UK (Reading/London). *Actively interviewing* while employed.
 
-### About Me
-- I’m a recent BSc (Hons) Computer Science graduate from the University of Bath.
-- I’ve been coding since 2014, exploring diverse areas of software and engineering.
-- Outside of code, I enjoy swimming, reading, researching, and continuous learning.
+### What I’m into
+<ul>
+  <li>Distributed systems that behave under load and fail calmly.</li>
+  <li>Low latency work done the boring way: measure, profile, cache, batch.</li>
+  <li>AI in production when it helps users: retrieval that works, honest evals, guardrails.</li>
+  <li>Fin/quant pipelines where determinism, reproducibility, and tight budgets matter.</li>
+</ul>
 
-### What I’m Up To
-- Diving deeper into advanced CS topics and cutting-edge tech.
-- Sharpening my problem-solving skills through personal research.
-- Always open to collaborating on innovative or impactful ideas.
+### You’ll find here
+Mostly practical stuff: small utilities, experiments, and notes from trying to make software faster and simpler.  
+*No streaks, no badges; just code I’d want to keep.*
 
----
+### Now
+Working on low latency services, better release tooling, and a few agentic AI experiments.
 
-<h3 align="center">Thank you for visiting!</h3>
+### Say hello
+📫 [contact@arrushc.com](mailto:contact@arrushc.com)  
+🔗 LinkedIn: https://www.linkedin.com/in/arrush-chaturvedi  
+🐙 GitHub: https://github.com/ArrushC
 
----
-
-### Contact Me
-- **GitHub:** [ArrushC](https://github.com/ArrushC)
-- **Email:** contact@arrushc.com
+Hiring or collaborating? I’m open to interesting problems.
